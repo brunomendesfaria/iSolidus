@@ -1,0 +1,184 @@
+[frmNFeT_m.cxgrdSNFeTNSDBTableView: TcxGridDBTableView]
+=
+Footer="True"
+GroupByBox="False"
+GroupFooters=0
+NewItemRow="False"
+Version=1
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewID_NOTA: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=64
+AlignmentHorz=1
+Index=0
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewNR_NOTA: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=64
+AlignmentHorz=1
+Index=1
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewDS_SERIE: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=64
+AlignmentHorz=0
+Index=2
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewNR_PROTOCOLO: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=124
+AlignmentHorz=0
+Index=3
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewDT_EMISSAO: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=112
+AlignmentHorz=0
+Index=4
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewDT_PROC: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=112
+AlignmentHorz=0
+Index=5
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewVR_TOTAL: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=64
+AlignmentHorz=1
+Index=6
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewNR_CHAVE: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=304
+AlignmentHorz=0
+Index=7
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewNR_CNPJE: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=124
+AlignmentHorz=0
+Index=8
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewNM_EMIT: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=362
+AlignmentHorz=0
+Index=9
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewNR_CNPJD: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=124
+AlignmentHorz=0
+Index=10
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewNM_DEST: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=460
+AlignmentHorz=0
+Index=11
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewST_NFE: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=120
+AlignmentHorz=1
+Index=12
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewFG_EXP: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=80
+AlignmentHorz=0
+Index=13
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewDS_VERSAO: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=34
+AlignmentHorz=0
+Index=14
+Visible="False"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTNSDBTableView/cxgrdSNFeTNSDBTableViewNR_PLACA: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=64
+AlignmentHorz=0
+Index=15
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+

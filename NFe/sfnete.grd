@@ -1,0 +1,118 @@
+[frmNFeT_m.cxgrdSNFeTEDBTableView: TcxGridDBTableView]
+=
+Footer="False"
+GroupByBox="False"
+GroupFooters=0
+NewItemRow="False"
+Version=1
+
+[frmNFeT_m.cxgrdSNFeTEDBTableView/cxgrdSNFeTEDBTableViewTP_ENTIDADE: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=48
+AlignmentHorz=0
+Index=0
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTEDBTableView/cxgrdSNFeTEDBTableViewNR_CNPJ: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=124
+AlignmentHorz=0
+Index=1
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTEDBTableView/cxgrdSNFeTEDBTableViewNR_IE: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=124
+AlignmentHorz=0
+Index=2
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTEDBTableView/cxgrdSNFeTEDBTableViewNM_ENTIDADE: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=422
+AlignmentHorz=0
+Index=3
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTEDBTableView/cxgrdSNFeTEDBTableViewDS_LOG: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=425
+AlignmentHorz=0
+Index=4
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTEDBTableView/cxgrdSNFeTEDBTableViewDS_BAIRRO: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=236
+AlignmentHorz=0
+Index=5
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTEDBTableView/cxgrdSNFeTEDBTableViewDS_NUMERO: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=64
+AlignmentHorz=0
+Index=6
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTEDBTableView/cxgrdSNFeTEDBTableViewNR_CEP: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=64
+AlignmentHorz=0
+Index=7
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTEDBTableView/cxgrdSNFeTEDBTableViewDS_CIDADE: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=365
+AlignmentHorz=0
+Index=8
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
+[frmNFeT_m.cxgrdSNFeTEDBTableView/cxgrdSNFeTEDBTableViewCD_UF: TcxGridDBColumn]
+=
+GroupIndex=-1
+Width=42
+AlignmentHorz=0
+Index=9
+Visible="True"
+SortOrder="soNone"
+SortIndex=-1
+WasVisibleBeforeGrouping="False"
+
