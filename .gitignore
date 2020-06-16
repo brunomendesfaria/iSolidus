@@ -7,4 +7,7 @@
 *.rar
 *.xml
 *.bat
+/SOLAUTENTICA_LOGS
 /ini
+/SOLSCANNTECH_LOGS
+/Online
