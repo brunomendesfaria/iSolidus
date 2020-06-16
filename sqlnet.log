@@ -1,0 +1,304 @@
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 25-OUT-2019 10:28:43
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:operação sofreu timeout
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operação sofreu timeout
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=200.95.222.89)(PORT=11251))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 25-OUT-2019 13:01:20
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:operação sofreu timeout
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operação sofreu timeout
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=200.95.222.89)(PORT=11251))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 25-OUT-2019 13:02:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:operação sofreu timeout
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operação sofreu timeout
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=200.95.222.89)(PORT=11251))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 11-NOV-2019 10:16:46
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:operação sofreu timeout
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operação sofreu timeout
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=salina-is.ddns.net)(PORT=11251))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl.intersoul)(CID=(PROGRAM=D:\solidus\SalvaDtaCripto.exe)(HOST=DESKTOP-NT5MBRJ)(USER=bruno))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 28-NOV-2019 09:46:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:não há listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Não há listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=salina-is.ddns.net)(PORT=11251))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl.intersoul)(CID=(PROGRAM=D:\solidus\SalvaDtaCripto.exe)(HOST=DESKTOP-NT5MBRJ)(USER=bruno))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 28-NOV-2019 09:46:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:não há listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Não há listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 28-NOV-2019 15:12:44
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:operação sofreu timeout
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operação sofreu timeout
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=191.37.45.66)(PORT=11251))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 28-NOV-2019 15:14:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:operação sofreu timeout
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operação sofreu timeout
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=191.37.45.66)(PORT=11251))
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=uai-is.ddns.net)(PORT=11251))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl.intersoul)(CID=(PROGRAM=C:\SOLIDUS\sol_erp.exe)(HOST=DESKTOP-NT5MBRJ)(USER=bruno))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 04-DEZ-2019 10:04:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: A conexão falhou porque o objeto ou host de destino não existe
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: A conexão falhou porque o objeto ou host de destino não existe
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=uai-is.ddns.net)(PORT=11251))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl.intersoul)(CID=(PROGRAM=C:\SOLIDUS\sol_erp.exe)(HOST=DESKTOP-NT5MBRJ)(USER=bruno))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 04-DEZ-2019 10:04:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: A conexão falhou porque o objeto ou host de destino não existe
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: A conexão falhou porque o objeto ou host de destino não existe
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=uai-is.ddns.net)(PORT=11251))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl.intersoul)(CID=(PROGRAM=C:\SOLIDUS\sol_erp.exe)(HOST=DESKTOP-NT5MBRJ)(USER=bruno))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 04-DEZ-2019 10:04:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: A conexão falhou porque o objeto ou host de destino não existe
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: A conexão falhou porque o objeto ou host de destino não existe
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=uai-is.ddns.net)(PORT=11251))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl.intersoul)(CID=(PROGRAM=C:\SOLIDUS\sol_erp.exe)(HOST=DESKTOP-NT5MBRJ)(USER=bruno))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 04-DEZ-2019 10:04:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: A conexão falhou porque o objeto ou host de destino não existe
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: A conexão falhou porque o objeto ou host de destino não existe
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=uai-is.ddns.net)(PORT=11251))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl.intersoul)(CID=(PROGRAM=C:\SOLIDUS\sol_erp.exe)(HOST=DESKTOP-NT5MBRJ)(USER=bruno))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 06-DEZ-2019 14:20:20
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: A conexão falhou porque o objeto ou host de destino não existe
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: A conexão falhou porque o objeto ou host de destino não existe
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 22-JAN-2020 14:37:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:operação sofreu timeout
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operação sofreu timeout
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=177.17.166.30)(PORT=11251))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 22-JAN-2020 14:37:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:operação sofreu timeout
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operação sofreu timeout
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=177.17.166.30)(PORT=11251))
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=uai-is.ddns.net)(PORT=11251))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl.intersoul)(CID=(PROGRAM=D:\solidus\iSOLIDUS.exe)(HOST=DESKTOP-NT5MBRJ)(USER=bruno))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 11.2.0.1.0 - Production
+  Time: 28-JAN-2020 10:59:56
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: A conexão falhou porque o objeto ou host de destino não existe
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: A conexão falhou porque o objeto ou host de destino não existe
+    nt secondary err code: 1001
+    nt OS err code: 0
